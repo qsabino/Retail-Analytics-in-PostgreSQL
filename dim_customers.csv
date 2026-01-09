@@ -1,0 +1,201 @@
+"customer_id","customer_name","age_group","gender","region","channel","loyalty_score"
+1,"customer 1","46-60","female","asia","online",49
+2,"customer 2","26-35","female","europe","in-store",8.3
+3,"customer 3","60+","female","asia","in-store",26
+4,"customer 4","60+","unisex","africa","online",87.5
+5,"customer 5","26-35","unisex","africa","in-store",85.2
+6,"customer 6","26-35","female","africa","online",84.3
+7,"customer 7","26-35","male","north america","online",94.7
+8,"customer 8","18-25","unisex","north america","online",65.3
+9,"customer 9","36-45","male","europe","online",48.8
+10,"customer 10","46-60","unisex","africa","in-store",18.8
+11,"customer 11","36-45","unisex","north america","online",71.3
+12,"customer 12","36-45","unisex","africa","in-store",8.5
+13,"customer 13","36-45","male","south america","in-store",46.1
+14,"customer 14","46-60","female","south america","in-store",93.6
+15,"customer 15","46-60","unisex","africa","in-store",84.5
+16,"customer 16","36-45","unisex","europe","in-store",71.6
+17,"customer 17","46-60","male","south america","in-store",12.4
+18,"customer 18","26-35","male","asia","online",59.5
+19,"customer 19","36-45","male","north america","in-store",99
+20,"customer 20","46-60","unisex","europe","in-store",61.5
+21,"customer 21","26-35","unisex","north america","in-store",27.3
+22,"customer 22","18-25","male","north america","online",6.4
+23,"customer 23","36-45","male","africa","online",7.2
+24,"customer 24","46-60","female","africa","in-store",87.4
+25,"customer 25","18-25","unisex","south america","online",36.3
+26,"customer 26","18-25","unisex","asia","online",94.6
+27,"customer 27","46-60","female","asia","online",55.8
+28,"customer 28","46-60","male","africa","in-store",51.3
+29,"customer 29","60+","unisex","europe","in-store",94.8
+30,"customer 30","18-25","male","north america","in-store",11
+31,"customer 31","46-60","male","south america","online",81.9
+32,"customer 32","60+","unisex","south america","online",37.7
+33,"customer 33","36-45","female","north america","online",55.7
+34,"customer 34","26-35","unisex","asia","in-store",31.4
+35,"customer 35","60+","unisex","europe","online",8.2
+36,"customer 36","46-60","unisex","africa","in-store",78
+37,"customer 37","46-60","female","europe","in-store",19.3
+38,"customer 38","18-25","male","south america","in-store",65.6
+39,"customer 39","36-45","unisex","asia","online",43.5
+40,"customer 40","36-45","unisex","asia","online",19.7
+41,"customer 41","36-45","female","europe","online",99.5
+42,"customer 42","60+","female","asia","online",44.7
+43,"customer 43","26-35","female","africa","in-store",3.1
+44,"customer 44","60+","unisex","asia","in-store",93.7
+45,"customer 45","26-35","unisex","europe","in-store",87.1
+46,"customer 46","18-25","female","asia","online",60.1
+47,"customer 47","46-60","male","asia","in-store",29.9
+48,"customer 48","26-35","male","asia","in-store",80.9
+49,"customer 49","26-35","male","south america","in-store",95.2
+50,"customer 50","36-45","female","europe","in-store",85.2
+51,"customer 51","60+","male","asia","in-store",12.7
+52,"customer 52","18-25","female","asia","online",96.9
+53,"customer 53","36-45","female","europe","online",55.7
+54,"customer 54","36-45","unisex","europe","in-store",0.5
+55,"customer 55","26-35","unisex","south america","in-store",13.6
+56,"customer 56","60+","unisex","south america","in-store",0.6
+57,"customer 57","18-25","unisex","europe","in-store",81.7
+58,"customer 58","46-60","female","africa","online",78.2
+59,"customer 59","46-60","female","europe","online",93.1
+60,"customer 60","18-25","female","north america","online",36.9
+61,"customer 61","36-45","unisex","north america","online",97.4
+62,"customer 62","46-60","unisex","europe","online",82.4
+63,"customer 63","46-60","unisex","africa","in-store",78.7
+64,"customer 64","18-25","male","africa","in-store",62.3
+65,"customer 65","60+","unisex","north america","online",96.7
+66,"customer 66","36-45","male","europe","in-store",50
+67,"customer 67","46-60","unisex","asia","in-store",89.4
+68,"customer 68","26-35","female","south america","online",40.1
+69,"customer 69","36-45","male","africa","in-store",44.8
+70,"customer 70","26-35","male","south america","in-store",93.6
+71,"customer 71","36-45","male","south america","online",68.3
+72,"customer 72","36-45","unisex","north america","in-store",1.8
+73,"customer 73","18-25","male","europe","online",16.6
+74,"customer 74","60+","female","africa","in-store",49.6
+75,"customer 75","46-60","male","south america","online",42.7
+76,"customer 76","46-60","unisex","asia","online",99.2
+77,"customer 77","60+","unisex","asia","in-store",88.9
+78,"customer 78","36-45","unisex","asia","in-store",34.6
+79,"customer 79","26-35","female","north america","in-store",70.6
+80,"customer 80","46-60","unisex","asia","online",90.9
+81,"customer 81","60+","female","asia","online",67.6
+82,"customer 82","26-35","male","africa","online",63.9
+83,"customer 83","36-45","unisex","asia","online",15
+84,"customer 84","36-45","female","africa","in-store",60.1
+85,"customer 85","18-25","female","north america","in-store",27.3
+86,"customer 86","36-45","male","africa","in-store",45.8
+87,"customer 87","26-35","female","africa","in-store",22.2
+88,"customer 88","36-45","male","north america","in-store",25.5
+89,"customer 89","36-45","female","europe","online",65.4
+90,"customer 90","18-25","unisex","asia","in-store",47.2
+91,"customer 91","26-35","unisex","north america","online",16.1
+92,"customer 92","26-35","female","north america","online",27.2
+93,"customer 93","26-35","female","north america","in-store",71.3
+94,"customer 94","46-60","male","europe","online",61.3
+95,"customer 95","18-25","female","asia","online",13.2
+96,"customer 96","60+","unisex","north america","online",7
+97,"customer 97","60+","female","south america","in-store",96.6
+98,"customer 98","36-45","unisex","africa","in-store",36.8
+99,"customer 99","36-45","male","europe","online",67.7
+100,"customer 100","60+","female","south america","online",84.6
+101,"customer 101","18-25","unisex","south america","online",24.2
+102,"customer 102","46-60","male","south america","online",3.5
+103,"customer 103","26-35","female","north america","online",59.5
+104,"customer 104","60+","unisex","europe","in-store",83.6
+105,"customer 105","46-60","female","europe","online",36.2
+106,"customer 106","60+","male","north america","online",33.2
+107,"customer 107","18-25","unisex","south america","in-store",64.5
+108,"customer 108","26-35","unisex","africa","in-store",95.9
+109,"customer 109","36-45","unisex","europe","in-store",59.6
+110,"customer 110","18-25","male","africa","in-store",51
+111,"customer 111","18-25","unisex","africa","in-store",15.5
+112,"customer 112","36-45","female","europe","online",84.6
+113,"customer 113","26-35","female","south america","in-store",21.4
+114,"customer 114","46-60","female","asia","in-store",67
+115,"customer 115","60+","unisex","north america","online",61.8
+116,"customer 116","36-45","male","asia","in-store",5
+117,"customer 117","46-60","male","north america","online",94.9
+118,"customer 118","60+","female","europe","in-store",58.3
+119,"customer 119","36-45","female","north america","online",86.1
+120,"customer 120","18-25","unisex","north america","in-store",51.8
+121,"customer 121","60+","female","europe","online",26.6
+122,"customer 122","26-35","female","europe","in-store",59.7
+123,"customer 123","46-60","male","africa","online",79.6
+124,"customer 124","26-35","unisex","south america","in-store",68.9
+125,"customer 125","18-25","male","africa","in-store",48.1
+126,"customer 126","60+","unisex","south america","online",46.6
+127,"customer 127","26-35","unisex","south america","in-store",61.8
+128,"customer 128","60+","unisex","south america","in-store",44.9
+129,"customer 129","18-25","unisex","asia","online",60.3
+130,"customer 130","18-25","female","north america","online",0.5
+131,"customer 131","26-35","female","africa","in-store",99.5
+132,"customer 132","46-60","male","asia","online",40.6
+133,"customer 133","26-35","male","south america","online",11.8
+134,"customer 134","18-25","unisex","south america","in-store",87
+135,"customer 135","18-25","female","south america","in-store",54
+136,"customer 136","18-25","male","south america","online",88.2
+137,"customer 137","46-60","female","africa","in-store",3.8
+138,"customer 138","18-25","female","south america","in-store",88.1
+139,"customer 139","36-45","female","south america","in-store",72.2
+140,"customer 140","26-35","male","north america","online",77
+141,"customer 141","18-25","unisex","asia","online",86.4
+142,"customer 142","18-25","unisex","asia","online",50.1
+143,"customer 143","60+","female","north america","in-store",92.6
+144,"customer 144","60+","female","asia","in-store",20.8
+145,"customer 145","46-60","female","north america","online",2.7
+146,"customer 146","46-60","male","south america","in-store",31.6
+147,"customer 147","46-60","unisex","africa","in-store",66
+148,"customer 148","60+","male","south america","in-store",31.5
+149,"customer 149","46-60","female","south america","online",94.4
+150,"customer 150","18-25","unisex","asia","online",77.9
+151,"customer 151","36-45","male","asia","online",33.9
+152,"customer 152","60+","male","north america","online",48.2
+153,"customer 153","46-60","female","europe","in-store",41.6
+154,"customer 154","26-35","unisex","south america","in-store",77.6
+155,"customer 155","18-25","male","asia","online",48.5
+156,"customer 156","46-60","female","africa","online",1.5
+157,"customer 157","18-25","male","africa","in-store",64.2
+158,"customer 158","36-45","male","asia","online",23.5
+159,"customer 159","18-25","unisex","south america","in-store",74.7
+160,"customer 160","36-45","unisex","north america","in-store",29.6
+161,"customer 161","36-45","unisex","asia","online",90.6
+162,"customer 162","26-35","unisex","europe","in-store",85.3
+163,"customer 163","36-45","unisex","africa","online",46.2
+164,"customer 164","46-60","female","asia","in-store",7.1
+165,"customer 165","26-35","unisex","asia","in-store",57.8
+166,"customer 166","18-25","female","africa","in-store",58
+167,"customer 167","60+","unisex","africa","online",99.4
+168,"customer 168","36-45","female","asia","in-store",33.5
+169,"customer 169","46-60","unisex","europe","online",66.7
+170,"customer 170","60+","female","asia","in-store",93.9
+171,"customer 171","60+","female","europe","online",57.5
+172,"customer 172","46-60","unisex","asia","online",69.2
+173,"customer 173","18-25","female","asia","in-store",9
+174,"customer 174","18-25","male","africa","online",86.6
+175,"customer 175","46-60","unisex","north america","online",50.1
+176,"customer 176","36-45","male","asia","online",22.3
+177,"customer 177","60+","unisex","africa","in-store",41.2
+178,"customer 178","26-35","female","asia","online",88.6
+179,"customer 179","18-25","male","europe","online",49.6
+180,"customer 180","46-60","male","south america","online",67.3
+181,"customer 181","46-60","unisex","europe","in-store",28.3
+182,"customer 182","46-60","male","south america","online",81.7
+183,"customer 183","36-45","female","africa","in-store",24.6
+184,"customer 184","26-35","unisex","africa","online",37
+185,"customer 185","26-35","unisex","africa","online",23.6
+186,"customer 186","36-45","female","asia","online",93.6
+187,"customer 187","60+","female","africa","online",41.5
+188,"customer 188","46-60","female","europe","online",13.7
+189,"customer 189","36-45","unisex","asia","online",91.4
+190,"customer 190","36-45","unisex","north america","online",34.8
+191,"customer 191","18-25","unisex","africa","in-store",85.3
+192,"customer 192","60+","female","europe","in-store",14.3
+193,"customer 193","60+","male","asia","online",35.9
+194,"customer 194","18-25","unisex","south america","in-store",24.6
+195,"customer 195","18-25","unisex","africa","online",4.6
+196,"customer 196","18-25","unisex","europe","online",78.5
+197,"customer 197","60+","unisex","europe","online",19.9
+198,"customer 198","60+","unisex","africa","online",39.2
+199,"customer 199","46-60","unisex","africa","in-store",32.4
+200,"customer 200","26-35","male","south america","in-store",60.2

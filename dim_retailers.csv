@@ -1,0 +1,31 @@
+"retailer_id","retailer_channel","retailer_name","city","region","area","country","distance_from_warehouse"
+1,"online","retailer 1","city 14","north america","rural","brazil",183.3
+2,"distributor","retailer 2","city 1","asia","rural","usa",189.6
+3,"in-store","retailer 3","city 2","europe","urban","uk",150.7
+4,"in-store","retailer 4","city 4","africa","urban","usa",49.2
+5,"in-store","retailer 5","city 10","asia","rural","uk",189.1
+6,"distributor","retailer 6","city 1","north america","urban","india",97.2
+7,"online","retailer 7","city 5","asia","rural","uk",272.7
+8,"in-store","retailer 8","city 8","north america","suburban","india",256.9
+9,"in-store","retailer 9","city 13","north america","urban","usa",473.1
+10,"online","retailer 10","city 18","europe","urban","brazil",177.2
+11,"in-store","retailer 11","city 10","south america","rural","uk",237.7
+12,"online","retailer 12","city 6","europe","suburban","india",50.4
+13,"online","retailer 13","city 7","south america","rural","germany",431.5
+14,"in-store","retailer 14","city 9","south america","suburban","germany",203.9
+15,"distributor","retailer 15","city 16","south america","urban","india",370.6
+16,"online","retailer 16","city 17","asia","suburban","uk",94.2
+17,"distributor","retailer 17","city 13","south america","rural","germany",232.8
+18,"online","retailer 18","city 8","north america","suburban","brazil",387.4
+19,"in-store","retailer 19","city 7","south america","rural","uk",40.7
+20,"online","retailer 20","city 20","africa","rural","usa",409.4
+21,"in-store","retailer 21","city 18","asia","urban","brazil",157.6
+22,"in-store","retailer 22","city 17","africa","suburban","usa",188.7
+23,"in-store","retailer 23","city 1","europe","urban","brazil",162.9
+24,"distributor","retailer 24","city 2","north america","suburban","germany",28.3
+25,"online","retailer 25","city 17","north america","suburban","brazil",264.2
+26,"online","retailer 26","city 2","europe","suburban","uk",342.7
+27,"online","retailer 27","city 13","africa","suburban","uk",452.6
+28,"online","retailer 28","city 17","europe","urban","brazil",22.5
+29,"distributor","retailer 29","city 3","asia","suburban","india",494.6
+30,"online","retailer 30","city 18","asia","urban","germany",158.4
